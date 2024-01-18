@@ -51,7 +51,7 @@ class _LoginScreenState extends State<LoginScreen> {
 
               CustomTextField(
                 controller: _controller.nameController,
-                labelplaceholername: const Text("Email Address"),
+                labelplaceholername: const Text("Email Addresss"),
                 borderColor: mycolor,
                 keyboardType: TextInputType.emailAddress,
                 focusNode: _controller.focusNode1,
